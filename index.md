@@ -35,4 +35,5 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - TA, Medical Physics, Seoul National University, 2024
 - TA (temporal), Seminar on the Science of Innovation, Seoul National University, 2024
 - TA, Software Leadership Seminar, Ewha Womans University, 2020
+- Chairman, BanU (abandoned animal volunteer clup), Ewha Womans University
 - TA, Chapel, Ewha Womans University
