@@ -8,6 +8,10 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 
 ## Research Interests
 
+<p style="font-style: italic; color: #2c3e50;">
+  "I pursue unified models that combine discriminative and generative reasoning to create human-like yet superhuman AI for real-world problem solving."
+</p>
+
 - **Multi-Modal Generation:** Video Editing, Multi-Modal Large Language Model (MLLM)
 - **Learning Paradigm:** Federated Learning
 - **Explainability:** Saliency Map
@@ -16,7 +20,7 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
 - **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
-- **[Sep. 2024]** One paper Federated Learning is accepted to Scientific Reports.
+- **[Sep. 2024]** One paper about a new learning paradigm is accepted to Scientific Reports.
 
 ## Awards & Honors
 - **Outstanding poster award**, Korean Society of Imaging Informatics in Medicine, 2024
