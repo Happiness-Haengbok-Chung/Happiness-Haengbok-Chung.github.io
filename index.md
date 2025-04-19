@@ -13,6 +13,17 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - **Explainability:** Saliency Map
 - **Medical Application**: Nuclear Medicine, X-ray
 
+## Awards & Honors
+- **Outstanding poster award**, Korean Society of Imaging Informatics in Medicine, 2024
+- **Outstanding poster award**, Institute of Radiation Medicine in Seoul National University, 2024
+- **Outstanding oral presentation award**, Korea Society of Artificail Intelligence in Medicine, 2023
+- **Outstanding research award**, IEEE NPSS Seoul Chapter, 2023
+- **Outstanding poster award**, Korea Society of Artificail Intelligence in Medicine, 2022
+- **Top prize**, Capston Design Project Competition in Ewha, 2021
+- **Grand prize**, Start-up Competition in Ewha Womans University, 2021
+- **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
+- **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
+
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
 - **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
