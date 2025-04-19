@@ -21,10 +21,10 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 ## Awards & Honors
 - **Outstanding poster award**, Korean Society of Imaging Informatics in Medicine, 2024
 - **Outstanding poster award**, Institute of Radiation Medicine in Seoul National University, 2024
-- **Outstanding oral presentation award**, Korea Society of Artificail Intelligence in Medicine, 2023
+- **Outstanding oral presentation award**, Korea Society of Artificial Intelligence in Medicine, 2023
 - **Outstanding research award**, IEEE NPSS Seoul Chapter, 2023
-- **Outstanding poster award**, Korea Society of Artificail Intelligence in Medicine, 2022
-- **Top prize**, Capston Design Project Competition in Ewha, 2021
+- **Outstanding poster award**, Korea Society of Artificial Intelligence in Medicine, 2022
+- **Top prize**, Capstone Design Project Competition in Ewha, 2021
 - **Grand prize**, Start-up Competition in Ewha Womans University, 2021
 - **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
 - **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
@@ -36,4 +36,4 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - Teaching Assistant, Seminar on the Science of Innovation (temporary), Seoul National University, 2024  
 - Teaching Assistant, Software Leadership Seminar, Ewha Womans University, 2020  
 - Teaching Assistant, Chapel, Ewha Womans University, 2019
-- Chairman, BanU (abandoned animal volunteer clup), Ewha Womans University
+- President, BanU (abandoned animal volunteer club), Ewha Womans University
