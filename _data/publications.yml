@@ -4,7 +4,7 @@ main:
     authors: <strong>Haengbok Chung</strong>, Jae Sung Lee
     conference: Neurocomputing, 2025.
     pdf: https://www.sciencedirect.com/science/article/abs/pii/S0925231225002000
-    image: ./assets/img/FedBB.png
+    image: ./assets/img/FedBB.jpg
 
   - title: Federated influencer learning for secure and efficient collaborative learning in realistic medical database environment
     authors: <strong>Haengbok Chung</strong>, Jae Sung Lee
