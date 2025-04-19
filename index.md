@@ -24,6 +24,7 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - **Outstanding oral presentation award**, Korea Society of Artificial Intelligence in Medicine, 2023
 - **Outstanding research award**, IEEE NPSS Seoul Chapter, 2023
 - **Outstanding poster award**, Korea Society of Artificial Intelligence in Medicine, 2022
+- **Honors Graduate**, Department of Computer Science, Ewha Womans University, 2022
 - **Top prize**, Capstone Design Project Competition in Ewha, 2021
 - **Grand prize**, Start-up Competition in Ewha Womans University, 2021
 - **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
