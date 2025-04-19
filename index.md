@@ -13,6 +13,11 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - **Explainability:** Saliency Map
 - **Medical Application**: Nuclear Medicine, X-ray
 
+## News
+- **[Sep. 2025]** Will join UIUC as an MCS student!
+- **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
+- **[Sep. 2024]** One paper Federated Learning is accepted to Scientific Reports.
+
 ## Awards & Honors
 - **Outstanding poster award**, Korean Society of Imaging Informatics in Medicine, 2024
 - **Outstanding poster award**, Institute of Radiation Medicine in Seoul National University, 2024
@@ -23,11 +28,6 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - **Grand prize**, Start-up Competition in Ewha Womans University, 2021
 - **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
 - **Outstanding paper award**, Journal of Korean Institute of Information Technology, 2021
-
-## News
-- **[Sep. 2025]** Will join UIUC as an MCS student!
-- **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
-- **[Sep. 2024]** One paper Federated Learning is accepted to Scientific Reports.
 
 {% include_relative _includes/publications.md %}
 
