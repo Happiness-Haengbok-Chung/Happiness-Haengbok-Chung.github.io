@@ -8,7 +8,7 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 
 ## Research Interests
 
-<p style="font-style: italic; color: #2c3e50;">
+<p style="font-style: italic;">
   "I pursue unified models that combine discriminative and generative reasoning to create human-like yet superhuman AI for real-world problem solving."
 </p>
 
