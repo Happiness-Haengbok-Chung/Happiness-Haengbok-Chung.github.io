@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a MCS student at University of Illinois at Urbana-Champaign (UIUC). I recieved MS majoring in artificial intelligence (AI) from Seoul National University (SNU) under the guidance of Prof. Jae Sung Lee. I worked as post masters researcher in SNU under the guidance of Prof. Bohyung Han. I received BS in computer science from Ewha Womans University. I also did an internship in KAIST under the guidance of Prof. Jong Chul Ye.
+I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I received an M.S. in Artificial Intelligence from Seoul National University (SNU), where I was advised by Prof. Jae Sung Lee. After graduation, I worked as a post-master's researcher at SNU under the guidance of Prof. Bohyung Han. I earned my B.S. in Computer Science from Ewha Womans University. I also completed a research internship at KAIST, working with Prof. Jong Chul Ye.
 
 ## Research Interests
 
