@@ -10,6 +10,8 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 
 - **Multi-Modal Generation:** Video Editing, Multi-Modal Large Language Model (MLLM)
 - **Learning Paradigm:** Federated Learning
+- **Explainablility:** Saliency Map
+- **Medical Apllication**: Neclear Medicine, X-ray
 
 ## News
 
