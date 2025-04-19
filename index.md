@@ -13,7 +13,7 @@ I am a MCS student at University of Illinois at Urbana-Champaign (UIUC). I recie
 
 ## News
 
-- **[Feb. 2020]** Our paper about Federated Learning is accepted to Neurocomputing.
+- **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
 - **[Sep. 2024]** One paper Federated Learning is accepted to Scientific Reports.
 
 {% include_relative _includes/publications.md %}
