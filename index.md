@@ -14,7 +14,7 @@ I am an MCS student at the University of Illinois at Urbana-Champaign (UIUC). I 
 - **Medical Apllication**: Neclear Medicine, X-ray
 
 ## News
-
+- **[Sep. 2025]** I am joining UIUC as an MCS student!
 - **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
 - **[Sep. 2024]** One paper Federated Learning is accepted to Scientific Reports.
 
