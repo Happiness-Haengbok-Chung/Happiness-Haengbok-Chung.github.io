@@ -15,7 +15,7 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 - **Multi-Modal Generation:** Video Editing, Multi-Modal Large Language Model (MLLM)
 - **Learning Paradigm:** Federated Learning
 - **Explainability:** Saliency Map
-- **Medical Application**: Nuclear Medicine, X-ray
+- **Medical Application**: Nuclear Medicine, X-ray, MRI, CT
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
