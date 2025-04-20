@@ -10,7 +10,7 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
   "My goal is to develop unified models that combine discriminative and generative reasoning to create human-like yet superhuman AI Agents for real-world problem solving."
 </p>
 
-## Research Interests
+## Research Interests for Agentic AI
 
 - **Unified Multi-Modal Generation and Discrimination:** Video Editing, Multi-Modal Large Language Model (MLLM)
 - **Trustworthiness:** Federated Learning, Interpretability
