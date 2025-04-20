@@ -14,7 +14,7 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 
 - **Unified Multi-Modal Generation and Discrimination:** Video Editing, Multi-Modal Large Language Model (MLLM)
 - **Trustworthiness:** Federated Learning, Interpretability
-- **Medical Application**: PET, Gamma Camera, X-ray, MRI, and CT
+- **Medical Application**: PET, Gamma Camera, X-ray, MRI, and CT 
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
