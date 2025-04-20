@@ -12,9 +12,8 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 
 ## Research Interests
 
-- **Multi-Modal Generation:** Video Editing, Multi-Modal Large Language Model (MLLM)
-- **Learning Paradigm:** Federated Learning
-- **Explainability:** Saliency Map
+- **Unified Multi-Modal Generation and Discrimination:** Video Editing, Multi-Modal Large Language Model (MLLM)
+- **Trustworthiness:** Federated Learning, Interpretability
 - **Medical Application**: PET, Gamma Camera, X-ray, MRI, CT
 
 ## News
