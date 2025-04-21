@@ -12,9 +12,9 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 
 ## Research Interests for Agentic AI
 
-- **Unified Multi-Modal Generation and Discrimination:** Video Editing, Multi-Modal Large Language Model (MLLM)
-- **Trustworthiness:** Federated Learning, Interpretability
-- **Medical Application**: PET, Gamma Camera, MRI, X-ray, and CT 
+- Unified Multi-Modal Generation and Discrimination
+- Trustworthiness of AI
+- Medical Application 
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
