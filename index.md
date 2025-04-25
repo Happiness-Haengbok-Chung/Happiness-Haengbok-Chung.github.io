@@ -11,7 +11,7 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 </p>
 
 ## Research Interests for Agentic AI
-
+- World Model
 - Unified Multi-Modal Generation and Discrimination
 - Trustworthiness of AI
 
