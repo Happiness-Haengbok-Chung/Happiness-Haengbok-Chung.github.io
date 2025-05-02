@@ -12,7 +12,8 @@ I am an [MCS](https://siebelschool.illinois.edu/academics/graduate/professional-
 
 ## Research Interests for Embodied Artificial General Intelligence
 - Self-Supervised Learning
-- Unified Multi-Modal Generation and Discrimination (World Model)
+- Unified Multi-Modal Generation and Discrimination
+- World Model
 - Trustworthiness of AI
 
 ## News
