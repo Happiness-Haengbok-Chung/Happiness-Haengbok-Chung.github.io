@@ -11,10 +11,9 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Research Interests for Embodied Artificial General Intelligence
-- Self-Supervised Learning
-- Unified Multi-Modal Generation and Discrimination
 - World Model
-- Trustworthiness of AI
+- Multi-Modal Learning
+- Trustworthiness (interpretability, security) of AI
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
