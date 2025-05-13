@@ -10,9 +10,9 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
   "My goal is to develop unified models that combine discriminative and generative reasoning to create human-like yet superhuman AI Agents for real-world applications such as medicine."
 </p>
 
-## Research Interests for Embodied Artificial General Intelligence
-- World Model
+## Research Interests for Artificial General Intelligence
 - Multi-Modal Learning
+- World Model
 - Trustworthiness (interpretability, security) of AI
 
 ## News
