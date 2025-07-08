@@ -12,7 +12,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 
 ## Current Interests for Embodied Artificial Super Intelligence
 - Multi-Modal Learning
-- 4D Computer Vision
+- 3D, 4D Computer Vision
 - Trustworthiness of AI
 
 ## News
