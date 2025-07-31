@@ -12,13 +12,13 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 
 ## Current Interests for Embodied Artificial Super Intelligence
 - Multi-Modal Learning
-- 3D, 4D Computer Vision
-- Trustworthiness of AI
+- 3D, 4D Vision
+- Trustworthy AI
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
 - **[May. 2025]** Started to receive informal mentorship from BLENDER.
-- **[Jan. 2025]** Our paper about Federated Learning is accepted to Neurocomputing.
+- **[Jan. 2025]** One paper about Federated Learning is accepted to Neurocomputing.
 - **[Sep. 2024]** One paper about a new learning paradigm is accepted to Scientific Reports.
 
 ## Awards & Honors
