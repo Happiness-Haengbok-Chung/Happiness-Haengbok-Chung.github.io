@@ -11,7 +11,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Current Interests: 
-My goal is to develop unified models that create human-like yet superhuman embodied AI for real-world applications such as medicine.
+Unified models that are human-like yet superhuman, embodied AI for real-world applications such as medicine.
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
