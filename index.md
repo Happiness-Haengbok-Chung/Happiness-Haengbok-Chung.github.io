@@ -11,7 +11,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Current Interests: 
-Inclusive models that are superhuman, embodied AI 
+Inclusive and embodied AI that is superhuman 
 for real-world applications such as **medicine**.
 
 ## News
