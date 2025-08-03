@@ -12,7 +12,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 
 ## Current Interests: 
 Expanding AI toward an inclusive and embodied agent that is superhuman 
-for real-world applications such as **medicine**.
+for real-world applications, especially in **medicine**.
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
