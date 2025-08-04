@@ -11,7 +11,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Current Interests: 
-Expanding LLM's capability toward an inclusive and embodied agent that is superhuman 
+Expanding Large Language Model's capability toward an inclusive and embodied agent that is superhuman 
 for real-world applications, especially in **medicine**.
 
 ## News
