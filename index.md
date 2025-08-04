@@ -11,7 +11,7 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Current Interests: 
-I am especially interested in improving LLMs' capabilities for a superhuman one 
+I am especially interested in improving LLMs' capabilities for the superhuman one 
 for real-world applications, such as robotics and medicine.
 
 ## News
