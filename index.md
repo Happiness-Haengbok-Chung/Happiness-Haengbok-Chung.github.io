@@ -13,7 +13,7 @@ Previously, in [KAIST](https://www.kaist.ac.kr/kr/), I received advising by Prof
 </p>
 
 ## Research
-I am especially interested in improving LLMs' capabilities for the future superhuman applications in robotics and medicine.
+I am especially interested in improving LLMs' and computer vision-centric models' capabilities for the future superhuman applications in robotics and medicine.
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
