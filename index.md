@@ -11,8 +11,8 @@ I am an incoming [MCS](https://siebelschool.illinois.edu/academics/graduate/prof
 </p>
 
 ## Current Interests: 
-Improving Large Language Model's capabilities toward a more inclusive and embodied agent that is superhuman 
-for real-world applications, such as **medicine**.
+I am especially interested in improving LLMs' capabilities toward a more inclusive and superhuman one 
+for real-world applications, such as robotics, and **medicine**.
 
 ## News
 - **[Sep. 2025]** Will join UIUC as an MCS student!
