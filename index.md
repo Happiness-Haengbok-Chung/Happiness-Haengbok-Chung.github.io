@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me (Chronological Order) <img src="assets/img/car0.jpg" alt="Your image" style="float:left; margin-right:10px;" width="80" height="80">
+## About Me <img src="assets/img/car0.jpg" alt="Your image" style="float:left; margin-right:10px;" width="80" height="80">
 
 I am receiving informal advising under the Prof. [Bohyung Han](https://scholar.google.com/citations?hl=ko&user=9aaeCToAAAAJ) and Prof. [Jae Sung Lee](https://scholar.google.com/citations?user=NXlghNYAAAAJ&hl=ko&oi=ao) (alphabetical order, because they are invaluable to me) in [Seoul National Universit (SNU)](https://www.snu.ac.kr/), where I also received an M.S. degree in artificial intelligence from Prof. [Jae Sung Lee](https://scholar.google.com/citations?user=NXlghNYAAAAJ&hl=ko&oi=ao).
 
